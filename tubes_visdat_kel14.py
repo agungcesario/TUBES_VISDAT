@@ -101,7 +101,7 @@ color_by_this_attribute = 'modularity_color'
 color_palette = Blues8
 
 #Choose a title!
-title = 'Paper Please'
+title = 'Visualisasi Relasi Paper'
 
 #Establish which categories will appear when hovering over each node
 HOVER_TOOLTIPS = [
