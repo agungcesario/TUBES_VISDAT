@@ -139,3 +139,8 @@ network_graph.selection_policy = NodesAndLinkedEdges()
 network_graph.inspection_policy = NodesAndLinkedEdges()
 
 plot.renderers.append(network_graph)
+
+#show(plot)
+save(plot, filename="myapp.html")
+
+curdoc().add_root(plot)
