@@ -141,6 +141,6 @@ network_graph.inspection_policy = NodesAndLinkedEdges()
 plot.renderers.append(network_graph)
 
 #show(plot)
-save(plot, filename="myapp.html")
+save(plot, filename="tubes-visdat-kel14.html")
 
 curdoc().add_root(plot)
